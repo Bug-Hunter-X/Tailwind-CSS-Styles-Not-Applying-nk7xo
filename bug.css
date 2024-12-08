@@ -1,0 +1,1 @@
+I encountered an issue where Tailwind CSS classes weren't being applied correctly to my elements.  I had the correct configuration set up, including the `@tailwind` directives in my CSS file, and the necessary plugins were installed.  However, the styles simply weren't being applied, even after a clean build and cache invalidation.
